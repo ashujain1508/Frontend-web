@@ -1,3 +1,4 @@
 # Frontend-web
-Name - Aarushi Jain <br> 
+Name - Aarushi Jain 
 Job role - Frontend Development
+
